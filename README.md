@@ -1,4 +1,4 @@
-# CourseCrafters
+# Decentralized Learning Management System
  Online_ Learning platform using XAMPP. <br>
 For frotend : HTML, CSS <br>
 For backend : php <br>
